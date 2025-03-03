@@ -3,5 +3,24 @@
 > [!IMPORTANT]
 > Watch this [video](https://www.youtube.com/watch?v=8lGpZkjnkt4) to learn how to make pull requests to this repo.
 
-For instructions, on how to run the frontend part of this project, visit README.md in the "client" folder.
-For instructions, on how to run the backend part of this project, visit README.md in the "server" folder.
+> [!IMPORTANT]
+> Use autoformatters! Prettier for client code and gofmt for server code.
+
+# 🛠️ How to run
+
+TODO: make a run scipt
+
+## Build the frontend
+
+```bash
+cd client
+npm install
+npm run build
+```
+
+## Start the server
+
+```bash
+cd server
+go run ./cmd/server/main.go
+```
