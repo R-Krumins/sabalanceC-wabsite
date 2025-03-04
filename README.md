@@ -6,9 +6,11 @@
 > [!IMPORTANT]
 > Use autoformatters! Prettier for client code and gofmt for server code.
 
-# 🛠️ How to run
+# 📜 Documentation
 
-TODO: make a run scipt
+Be a good chap and RTFM at `docs/`
+
+# 🛠️ How to run
 
 ## Build the frontend
 
