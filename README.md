@@ -12,8 +12,6 @@ Be a good chap and RTFM at `docs/`
 
 # 🛠️ How to run
 
-TODO: make a run script
-
 ## Build the frontend
 
 ```bash
